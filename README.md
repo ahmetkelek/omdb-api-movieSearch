@@ -1,3 +1,29 @@
+
+### Görseller 
+
+<image src="./images/task1.png">
+<image src="./images/task2.png">
+<image src="./images/task3.png">
+<image src="./images/task4.png">
+<image src="./images/task5.png">
+
+## Genel Olarak Projenin Yapılışı 
+  
+- Projede componentları olabildiğince ayırarak yapmaya çalıştım.
+- İlk olarak Card componentini oluşturdum. Daha sonra sırasıyla Api, SearchBar ve Heading olarak yaptım.
+- Açıldığında çok kısa olmak üzere loading ui koydum.
+- Dataları axios ile getirdim.
+- SearchBar'da 3 harf ve üzeri olduğunda arama yapılıyor.
+- Film isimlerinin uzunluğunu standarta oturtmak için "substring" fonksiyonu kullandım. Çünkü görseller fazlasıyla kayıyordu. Projenin
+  son halinde en alttaki görsellerden bazıları hala kayıyor ama onları düzene oturtamadım. OMDB Api'de her filmin görseli yoktu
+  ondan da olabilir tam emin değilim.
+
+- Projenin son hali 3 gün sürdü. Son gün ufak tefek değişiklikler yaptım. Loading, searchBar boyutu gibi.
+- Biraz daha vaktim olsaydı üstte bahsettiğim gibi posterleri standarta oturtmaya vakit ayırırdım, film araması yapılıp silindikten sonra
+  3.harfe kadar aramaya yapmaya devam ediyor. Ancak 3.harften aşağısında arama duruyor onu düzeltirdim.
+  
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
