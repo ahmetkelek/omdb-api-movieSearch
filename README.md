@@ -19,8 +19,8 @@
   ondan da olabilir tam emin değilim.
 
 - Projenin son hali 3 gün sürdü. Son gün ufak tefek değişiklikler yaptım. Loading, searchBar boyutu gibi.
-- Biraz daha vaktim olsaydı üstte bahsettiğim gibi posterleri standarta oturtmaya vakit ayırırdım, film araması yapılıp silindikten sonra
-  3.harfe kadar aramaya yapmaya devam ediyor. Ancak 3.harften aşağısında arama duruyor onu düzeltirdim.
+- Biraz daha vaktim olsaydı üstte bahsettiğim gibi posterleri standarta oturtmaya vakit ayırırdım ve filmleri favorilere
+  ekleme,silme gibi güncelleme yapılması için seçenekler koyardım, filmlerin konularını, imdb puanlarını eklerdim.
   
   
 
